@@ -1,1 +1,1 @@
-# solucion-prueva-tecnica
+# solucion-prueba-tecnica
